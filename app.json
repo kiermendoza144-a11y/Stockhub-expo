@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "StockHub",
+    "slug": "stockhub-expo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#5003C0",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.stockhub.expo"
+    },
+    "android": {
+      "package": "com.stockhub.expo"
+    },
+    "sdkVersion": "57.0.0",
+    "plugins": [
+      "expo-sqlite"
+    ]
+  }
+}
